@@ -1,0 +1,34 @@
+Immutability - Pure functions - Referential Transparency -
+
+Closure - Capture of Variables - First class functions - 
+
+Composition of Functions - Higher order functions - Functors - 
+
+Partial application and Currying - Importance of lazy evaluation - 
+
+Functions as values - Code as data - Data as Code - 
+
+Type inference - Lexical scoping vs Dynamic scoping - 
+
+Map/Filter/Fold - - Pattern matching - Monads - 
+
+Combinators - Types of Combinators - Anonymous recursion - 
+
+-Tail call elimination in recursion - Name free notation - 
+
+Controlled side effects - Software Transactional memory - 
+
+Concurrent programming - Purely Functional data structuers - 
+
+Mathematical induction vs Structural Induction - Continuation 
+
+Passing style - Functional Parsers - Parser Combinators - 
+
+Hygenic macros and modules - Meta Programming - Programming language semantics - 
+
+DSLs using Functional Programming - Mixing Functional Programming
+
+and Object Oriented Programming - Emulating Functional Programming
+
+idioms using C/C++,Java,JavaScript and C# 
+
